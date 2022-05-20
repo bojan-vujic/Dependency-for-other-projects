@@ -1,3 +1,7 @@
+{
+  type="module"
+}
+
 var words =[
   'you are a litle boy dady',
   'Happy little girl that is you',
