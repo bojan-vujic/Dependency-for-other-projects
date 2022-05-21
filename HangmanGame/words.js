@@ -125,9 +125,3 @@ var frequencyJug = {
   'đž': 45
 }
 
-
-
-
-
-export { rijeci, frequencyJug };
-
